@@ -1,0 +1,6 @@
+document.write("\n");
+document.write("<SCR"+"IPT TYPE=\"text/javascript\" SRC=\"http://ad.foxnetworks.com/st?ad_type=ad&ad_size=300x250&section=3907294&pub_url=${PUB_URL}\">\n");
+document.write("</SCR"+"IPT>\n");
+document.write("\n");
+
+
