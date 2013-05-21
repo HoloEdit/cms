@@ -1,2 +1,0 @@
-[05-Jan-2009 09:56:03] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: open(/tmp/sess_bf8e422c245c3bf1e1ad6591f1b038cd, O_RDWR) failed: Permission denied (13) in /home/oni/public_html/0niCMS/core.php on line 19
-[05-Jan-2009 09:56:03] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/oni/public_html/0niCMS/core.php:19) in /home/oni/public_html/0niCMS/core.php on line 19
